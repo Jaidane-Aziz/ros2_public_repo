@@ -1,0 +1,8 @@
+{
+  "package_name": "Exec2",
+  "non_idl_tuples": [
+    "/root/ros2_workspace/src/my_execs/Exec2:../../my_msgs/msg/Num.msg",
+    "/root/ros2_workspace/src/my_execs/Exec2:../../my_msgs/msg/Sphere.msg",
+    "/root/ros2_workspace/src/my_execs/Exec2:srv/AddThreeInts.srv"
+  ]
+}
